@@ -1,0 +1,13 @@
+C:\Users\Yaroslav\source\repos\Interfaces\_Stack\bin\Debug\netcoreapp3.1\_Stack.exe
+C:\Users\Yaroslav\source\repos\Interfaces\_Stack\bin\Debug\netcoreapp3.1\_Stack.deps.json
+C:\Users\Yaroslav\source\repos\Interfaces\_Stack\bin\Debug\netcoreapp3.1\_Stack.runtimeconfig.json
+C:\Users\Yaroslav\source\repos\Interfaces\_Stack\bin\Debug\netcoreapp3.1\_Stack.runtimeconfig.dev.json
+C:\Users\Yaroslav\source\repos\Interfaces\_Stack\bin\Debug\netcoreapp3.1\_Stack.dll
+C:\Users\Yaroslav\source\repos\Interfaces\_Stack\bin\Debug\netcoreapp3.1\_Stack.pdb
+C:\Users\Yaroslav\source\repos\Interfaces\_Stack\obj\Debug\netcoreapp3.1\_Stack.csprojAssemblyReference.cache
+C:\Users\Yaroslav\source\repos\Interfaces\_Stack\obj\Debug\netcoreapp3.1\_Stack.AssemblyInfoInputs.cache
+C:\Users\Yaroslav\source\repos\Interfaces\_Stack\obj\Debug\netcoreapp3.1\_Stack.AssemblyInfo.cs
+C:\Users\Yaroslav\source\repos\Interfaces\_Stack\obj\Debug\netcoreapp3.1\_Stack.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\source\repos\Interfaces\_Stack\obj\Debug\netcoreapp3.1\_Stack.dll
+C:\Users\Yaroslav\source\repos\Interfaces\_Stack\obj\Debug\netcoreapp3.1\_Stack.pdb
+C:\Users\Yaroslav\source\repos\Interfaces\_Stack\obj\Debug\netcoreapp3.1\_Stack.genruntimeconfig.cache
